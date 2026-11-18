@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="20" role="img" aria-label="GCP: BigQuery | Cloud Run | Cloud Build | Logging">
+  <title>GCP: BigQuery | Cloud Run | Cloud Build | Logging</title>
+  <clipPath id="r"><rect width="375" height="20" rx="3"/></clipPath>
+  <g clip-path="url(#r)"><rect width="42" height="20" fill="#555"/><rect x="42" width="333" height="20" fill="#4285F4"/></g>
+  <g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11" fill="#fff" text-anchor="middle">
+    <text x="21.0" y="15" fill="#010101" fill-opacity=".3" textLength="22" lengthAdjust="spacingAndGlyphs">GCP</text>
+    <text x="21.0" y="14" textLength="22" lengthAdjust="spacingAndGlyphs">GCP</text>
+    <text x="208.5" y="15" fill="#010101" fill-opacity=".3" textLength="313" lengthAdjust="spacingAndGlyphs">BigQuery | Cloud Run | Cloud Build | Logging</text>
+    <text x="208.5" y="14" textLength="313" lengthAdjust="spacingAndGlyphs">BigQuery | Cloud Run | Cloud Build | Logging</text>
+  </g>
+</svg>

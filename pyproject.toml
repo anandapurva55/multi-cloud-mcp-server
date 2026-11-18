@@ -1,0 +1,3 @@
+# Tooling configuration only; this repo is run from source (python server.py), not installed.
+[tool.pytest.ini_options]
+testpaths = ["tests"]

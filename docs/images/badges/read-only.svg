@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="311" height="20" role="img" aria-label="Tools: read-only | SQL guard | cost caps">
+  <title>Tools: read-only | SQL guard | cost caps</title>
+  <clipPath id="r"><rect width="311" height="20" rx="3"/></clipPath>
+  <g clip-path="url(#r)"><rect width="56" height="20" fill="#555"/><rect x="56" width="255" height="20" fill="#2E7D32"/></g>
+  <g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11" fill="#fff" text-anchor="middle">
+    <text x="28.0" y="15" fill="#010101" fill-opacity=".3" textLength="36" lengthAdjust="spacingAndGlyphs">Tools</text>
+    <text x="28.0" y="14" textLength="36" lengthAdjust="spacingAndGlyphs">Tools</text>
+    <text x="183.5" y="15" fill="#010101" fill-opacity=".3" textLength="235" lengthAdjust="spacingAndGlyphs">read-only | SQL guard | cost caps</text>
+    <text x="183.5" y="14" textLength="235" lengthAdjust="spacingAndGlyphs">read-only | SQL guard | cost caps</text>
+  </g>
+</svg>
