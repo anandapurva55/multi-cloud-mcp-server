@@ -1,6 +1,6 @@
 # Multi-Cloud MCP Server
 
-A local [Model Context Protocol](https://modelcontextprotocol.io) server that gives an MCP client (such as **Claude Code**, **Codex**, **Cursor**, **GitHub Copilot**, etc.) tools to inspect and query your own **Google Cloud Platform** (**GCP**) and **Amazon Web Services** (**AWS**)  infrastructure: data warehouses, CI build systems, container/serverless runtimes, and their logs. You point it at your own project(s) and account(s) through a short interactive setup wizard.
+A local [Model Context Protocol](https://modelcontextprotocol.io) server that gives an MCP client (such as **Claude Code**, **Codex**, **GitHub Copilot**, etc.) tools to inspect and query your own **Google Cloud Platform** (**GCP**) and **Amazon Web Services** (**AWS**)  infrastructure: data warehouses, CI build systems, container/serverless runtimes, and their logs. You point it at your own project(s) and account(s) through a short interactive setup wizard.
 
 Built with: **Python**, the **Model Context Protocol** (**FastMCP**, stdio), **boto3** and the **Google Cloud client libraries**, covering **Google BigQuery**, **Google Cloud Run**, **Google Cloud Build**, **Google Cloud Logging**, **Amazon Athena**, **Amazon Elastic Container Service** (**Amazon ECS**), **AWS Lambda**, **AWS CodeBuild**, **Amazon Simple Storage Service** (**Amazon S3**) and **Amazon CloudWatch Logs**; tested with **pytest** and **moto**, and checked on every push by **GitHub Actions**.
 
